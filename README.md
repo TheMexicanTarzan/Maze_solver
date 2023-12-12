@@ -17,4 +17,4 @@ After feeding the maze to the program, it will print the series of steps in the 
 
 The previous structure applies for both the 8 and 4 directional modes. Where the 8 directional mode will use every number and the 4 directional will use just 2, 4, 6, 8. 
 
-NOTE: The prints in the code have been translated but the variables have not been  translated from spanish. 
+NOTE: The prints in the code have been translated but the variables have not been  translated from spanish. Since this program needs to search for a specific file in the computer, some antivirus softwares may impede the functionallity of the code. 
